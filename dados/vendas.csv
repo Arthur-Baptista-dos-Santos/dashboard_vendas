@@ -1,0 +1,21 @@
+data,regiao,vendedor,produto,categoria,quantidade,preco_unitario,custo_unitario
+2024-01-03,Sudeste,Ana,Notebook Pro,Eletrônicos,5,3200,2100
+2024-01-03,Sul,Carlos,Mouse Gamer,Periféricos,30,180,90
+2024-01-04,Nordeste,Maria,Teclado RGB,Periféricos,15,220,110
+2024-01-05,Sudeste,João,Monitor 4K,Eletrônicos,8,1800,1200
+2024-01-06,Centro-Oeste,Ana,Notebook Pro,Eletrônicos,3,3200,2100
+2024-01-07,Sul,Carlos,Headset Pro,Periféricos,20,350,175
+2024-01-08,Sudeste,Maria,SSD 1TB,Armazenamento,25,420,210
+2024-01-09,Norte,João,Mouse Gamer,Periféricos,12,180,90
+2024-01-10,Sudeste,Ana,Monitor 4K,Eletrônicos,6,1800,1200
+2024-01-11,Sul,Carlos,Notebook Pro,Eletrônicos,4,3200,2100
+2024-01-12,Nordeste,Maria,Headset Pro,Periféricos,18,350,175
+2024-01-13,Sudeste,João,SSD 1TB,Armazenamento,35,420,210
+2024-01-14,Centro-Oeste,Ana,Teclado RGB,Periféricos,22,220,110
+2024-01-15,Sul,Carlos,Monitor 4K,Eletrônicos,5,1800,1200
+2024-01-16,Sudeste,Maria,Notebook Pro,Eletrônicos,7,3200,2100
+2024-01-17,Norte,João,Mouse Gamer,Periféricos,40,180,90
+2024-01-18,Sudeste,Ana,SSD 1TB,Armazenamento,28,420,210
+2024-01-19,Nordeste,Carlos,Headset Pro,Periféricos,14,350,175
+2024-01-20,Sul,Maria,Monitor 4K,Eletrônicos,9,1800,1200
+2024-01-21,Sudeste,João,Teclado RGB,Periféricos,33,220,110
