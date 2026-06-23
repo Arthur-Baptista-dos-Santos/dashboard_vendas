@@ -30,7 +30,7 @@ CSV → DuckDB (SQL) → pandas → Streamlit (web)
 | `Query` | `Arquivo` | `Insight gerado` |
 |---|---|---|
 | Receita por região | `sql/01_receita_por_regiao.sql` | Sudeste lidera em volume, Norte e Nordeste lideram em margem % |
-| Ranking de vendedores | `sql/02_ranking_vendedores.sql` | João tem maior margem (44.75%) — melhor produto mix |
+| Ranking de vendedores | `sql/02_ranking_vendedores.sql` | João tem maior margem (44.75%) melhor produto mix |
 | Lucro por produto | `sql/03_lucro_por_categoria.sql` | SSD 1TB: maior giro + margem consistente |
 
 ---
