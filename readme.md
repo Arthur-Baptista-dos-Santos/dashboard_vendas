@@ -4,6 +4,13 @@
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![DuckDB](https://img.shields.io/badge/DuckDB-1.5-yellow)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red)
+![SQL](https://img.shields.io/badge/SQL-DuckDB-orange)
+
+---
+
 ## `Objetivo`
 
 Transformar dados brutos de vendas em insights de negócio acionáveis — margem por vendedor, receita por região e lucro por produto — numa aplicação web interativa.
@@ -31,18 +38,19 @@ CSV → DuckDB (SQL) → pandas → Streamlit (web)
 ## `Como rodar`
 
 ```bash
-git clone https://github.com/Arthur-Baptista-dos-Santos/dashboard_vendas.git
+
+# Clonar o repositório
+git clone https://github.com/seu-usuario/dashboard_vendas.git
 cd dashboard_vendas
+
+# Criar ambiente virtual
 python -m venv .venv
 .venv\Scripts\activate
+
+# Instalar dependências
 pip install pandas duckdb sqlalchemy matplotlib streamlit
+
+# Executar dashboards
 python src/banco.py
 streamlit run src/app.py
 ```
-
----
-
-![Python](https://img.shields.io/badge/Python-3.13-blue)
-![DuckDB](https://img.shields.io/badge/DuckDB-1.5-yellow)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red)
-![SQL](https://img.shields.io/badge/SQL-DuckDB-orange)
