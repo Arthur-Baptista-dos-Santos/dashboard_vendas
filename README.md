@@ -1,3 +1,5 @@
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-abs--dashboard--vendas.streamlit.app-FF4B4B?logo=streamlit&logoColor=white)](https://abs-dashboard-vendas.streamlit.app)
+
 # `Dashboard de Vendas`
 
 > Análise de vendas em tempo real com SQL, DuckDB e Streamlit.
