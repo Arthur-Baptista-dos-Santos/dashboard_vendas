@@ -90,7 +90,7 @@ dashboard_vendas/
 
 ## `Demonstração`
 
-**Painel de Vendas** — KPIs consolidados (R$ 196.520 em receita, 40.9% de margem média) com gráficos de receita por região, margem por vendedor e lucro por produto.
+**Painel de Vendas**: KPIs consolidados (R$ 196.520 em receita, 40.9% de margem média) com gráficos de receita por região, margem por vendedor e lucro por produto.
 
 ![Dashboard de Vendas](docs/screenshots/dashboard.png)
 
@@ -105,7 +105,7 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 ## `Autor`
 
 **Arthur Baptista dos Santos**
-RM 565346 — Inteligência Artificial · FIAP 2025–2026
+RM 565346 · Inteligência Artificial · FIAP 2025-2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Baptista-0077B5?logo=linkedin)](https://linkedin.com/in/arthur-baptista-dos-santos)
 [![GitHub](https://img.shields.io/badge/GitHub-Arthur--Baptista--dos--Santos-181717?logo=github)](https://github.com/Arthur-Baptista-dos-Santos)
